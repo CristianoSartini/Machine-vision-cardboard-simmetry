@@ -19,8 +19,11 @@ Group project for the course “Advanced Measurement Systems for Control Applica
 
 
 
-| ![](Project/immagini/operator.png) | ![](Project/immagini/env.png) |
-|-------------------------|-------------------------|
+
+
+| <img src="Project/immagini/operator.png" alt="img1" width="400"/> | <img src="Project/immagini/env.png" alt="img2" width="600"/> |
+|---------------------------------------------------|---------------------------------------------------|
+
 
 
 ## Contents
@@ -40,10 +43,7 @@ Group project for the course “Advanced Measurement Systems for Control Applica
 ➤ `immagini/`: test images used in the project, organized as:
    • `setup_definitivo/`: raw images captured from the final acquisition setup.  
    • `aligned_cropped/`: preprocessed images ready for classification.
-
-➤ `c_images/`: chessboard photos used for intrinsic camera calibration.  
 ➤ `calib_data/`: output calibration files (`.npz`) used for undistortion and metric mapping.  
-➤ `sources/`: PDF references supporting design and theoretical justifications.  
 ➤ `Report.pdf`: technical documentation of the entire project (EN).
 
 
