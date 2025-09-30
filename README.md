@@ -20,7 +20,6 @@ Group project for the course “Advanced Measurement Systems for Control Applica
 
 
 | ![](Project/immagini/operator.png) | ![](Project/immagini/env.png) |
-
 |-------------------------|-------------------------|
 
 
