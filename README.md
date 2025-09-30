@@ -17,6 +17,9 @@ Group project for the course “Advanced Measurement Systems for Control Applica
 
 ✅ The system operates without relying on predefined templates or golden samples, making it scalable and adaptable to different cardboard geometries and inspection requirements.
 
+<p align="center">
+  <img src="immagini\operatore.png" alt="descrizione" width="400"/>
+</p>
 
 
 ## Contents
